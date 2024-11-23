@@ -59,7 +59,7 @@
 57,FRODO,"    How do you pick up the threads of an old life? How do you go on, when in     your heart you begin to understand there is no going back? There are some     things that time cannot mend. Some hurts that go too deep, that have taken     hold. ",The Return of the King 
 58,SAM,    Mr Frodo? What is it?  ,The Return of the King 
 59,FRODO,    It's been four years to the day since Weathertop Sam. It's never really     healed.  ,The Return of the King 
-60,SAM,"    , There and Back Again, a Hobbits tale     by Bilbo Baggins and the Lord of the Rings by Frodo Baggins. You finished     it. ",The Return of the King 
+60,SAM,"    , There and Back Again, a Hobbits tale     by Bilbo Baggins and the Lord of the Rings by Frodo. You finished     it. ",The Return of the King 
 61,FRODO,    Not quite. There's room for a little more.  ,The Return of the King 
 62,FRODO,"    Bilbo once told me his part in this tale would end. That each of us must     come and go in the telling. Bilbo's story was now over. There would be no     more journeys for him. , save one.  ",The Return of the King 
 63,BILBO,"    Tell me again lad, where are we going? ",The Return of the King 
@@ -241,7 +241,7 @@
 239,FRODO,Smeagol? (shouts) SMEAGOL! SMEAGOL!  ,The Return of the King 
 240,FRODO,Sam.  ,The Return of the King 
 241,SAM,Ow!  ,The Return of the King 
-242,GALADRIEL VOICEOVER,"And you Frodo Baggins, I give you the light of E'rendil, our most beloved star. , May it be a light for you in dark places, when all other lights go out.  ",The Return of the King 
+242,GALADRIEL VOICEOVER,"And you Frodo, I give you the light of E'rendil, our most beloved star. , May it be a light for you in dark places, when all other lights go out.  ",The Return of the King 
 243,FRODO,Aiya E'rendil Elenion Ancalim'  ,The Return of the King 
 244,GOLLUM,"Naughty little fly. Why does he cry? ,Caught in a web. Soon     you'll be eaten.  ",The Return of the King 
 245,GOLLUM,Got away did it precious? Not this time. Not this time.     ,The Return of the King 
@@ -654,7 +654,7 @@
 652,SAM,"Folk in those stories......had lots of chances of turning back, only they didn't.      They kept going......because they were holding on to something.    ",The Two Towers 
 653,FRODO,"What are we holding on to, Sam?           ",The Two Towers 
 654,SAM,"That there's some good in this world, Mr. Frodo. And it's worth fighting for.           ",The Two Towers 
-655,FARAMIR,"I think at last we understand one another, Frodo Baggins. ,     ",The Two Towers 
+655,FARAMIR,"I think at last we understand one another, Frodo. ,     ",The Two Towers 
 656,MADRIL,"You know the laws of our country, the laws of your father. If you let them go      your life will be forfeit.           ",The Two Towers 
 657,FARAMIR,"Then it is forfeit. Release them.,     ",The Two Towers 
 658,THEODEN,They have broken through! The castle is breached. Retreat!       ,The Two Towers 
@@ -828,7 +828,7 @@
 826,SAM,Spies? Now wait just a minute. ,The Two Towers 
 827,FARAMIR,"Well, if you're not spies, then who are you? ",The Two Towers 
 828,FARAMIR,Speak. ,The Two Towers 
-829,FRODO,"We are Hobbits of the Shire. Frodo Baggins is my name, and this is     Samwise Gamgee. ",The Two Towers 
+829,FRODO,"We are Hobbits of the Shire. Frodo is my name, and this is     Samwise Gamgee. ",The Two Towers 
 830,FARAMIR,Your bodyguard? ,The Two Towers 
 831,SAM,His gardener. ,The Two Towers 
 832,FARAMIR,And where is your skulking friend? That gangrel creature. He had an ill-favored     look. ,The Two Towers 
@@ -1753,7 +1753,7 @@
 1751,SMEAGOL,But we swore to serve the masterof the precious. ,The Two Towers 
 1752,SAM,Don't you lose him Samwise Gamgee and I don't mean to.  ,The Fellowship of the Ring 
 1753,FRODO,Sam! We're still in The Shire.  What could possibly     happen! ,The Fellowship of the Ring 
-1754,PIPPIN,  Frodo!      Merry! Its Frodo Baggins! ,The Fellowship of the Ring 
+1754,PIPPIN,  Frodo!      Merry! Its Frodo! ,The Fellowship of the Ring 
 1755,MERRY,Hello Frodo! ,The Fellowship of the Ring 
 1756,SAM,"Get off him! ,     Frodo, are you alright? ",The Fellowship of the Ring 
 1757,FRODO,What's the meaning of this ? ,The Fellowship of the Ring 
@@ -2116,7 +2116,7 @@
 2114,DENETHOR,The rule of Gondor is mine and no others! ,The Return of the King 
 2115,GANDALF,Come! ,The Return of the King 
 2116,GANDALF,"All had turned to vain ambition. He would use even his grief as a cloak!     A thousand years this city has stood and now at the whim of a madman it will     fall! And the white tree, the tree of the King will never bloom again. ",The Return of the King 
-2117,GANDALF,"A wizard is never late! Frodo Baggins.    , Nor is he early, he arrives precisely when he means     to.       ",The Fellowship of the Ring 
+2117,GANDALF,"A wizard is never late! Frodo.    , Nor is he early, he arrives precisely when he means     to.       ",The Fellowship of the Ring 
 2118,FRODO,Its wonderful to see you Gandalf. ,The Fellowship of the Ring 
 2119,GANDALF,You didn't think Id miss your Uncle Bilbo's birthday?     ,The Fellowship of the Ring 
 2120,GANDALF,So how is the old rascal? I hear it is going to be a     party of special significance?       ,The Fellowship of the Ring 
@@ -2283,7 +2283,7 @@
 2281,BARLIMAN,"He's one of them rangers. They're dangerous folk they are.      Wandering the wilds.  What his right name is, I've never heard, but     round here, he's known as Strider. ",The Fellowship of the Ring 
 2282,FRODO,Strider ,The Fellowship of the Ring 
 2283,RING,Baggins.... Baggins.... Baggins ....Baggins!  Baggins! ,The Fellowship of the Ring 
-2284,PIPPIN,"Baggins ?  Sure I know a Baggins!  He's over     there.  Frodo Baggins! He's my second cousin once removed on his     mother's side , and my     third cousin twice removed on his father's side, if you follow me.  ",The Fellowship of the Ring 
+2284,PIPPIN,"Baggins ?  Sure I know a Baggins!  He's over     there.  Frodo! He's my second cousin once removed on his     mother's side , and my     third cousin twice removed on his father's side, if you follow me.  ",The Fellowship of the Ring 
 2285,FRODO,Pippin! ,The Fellowship of the Ring 
 2286,PIPPIN,Steady on! ,The Fellowship of the Ring 
 2287,MEN,Oh! ,The Fellowship of the Ring 
