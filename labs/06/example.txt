@@ -1,2 +1,3 @@
-"This is the beginning of a new file!\n" 
-"This is the beginning of a new file!\n" 
+Hello, World!
+This is a new line.
+This is an appended line.
