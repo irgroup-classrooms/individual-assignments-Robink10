@@ -1,0 +1,2 @@
+"This is the beginning of a new file!\n" 
+"This is the beginning of a new file!\n" 
